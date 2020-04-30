@@ -1,0 +1,16 @@
+#task-form {
+  margin: 10px;
+  padding: 10px;
+}
+
+#input-box {
+  padding: 5px;
+  margin: 10px;
+  height: 15px;
+  width: 35%;
+}
+#add-button {
+  background-color: rgba(231, 226, 149, 0.849);
+  color: #282c34;
+  border-radius: 8px;
+}
