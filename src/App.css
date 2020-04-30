@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+}
+
+.App-header {
+  font-size: calc(15px + 2vmin);
+  color: rgba(231, 226, 149, 0.849);
+  padding: 10px;
+}
+
+.App-body {
+  margin: 10px;
+}
